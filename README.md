@@ -15,7 +15,9 @@ which is a list of movies and creates an HTML file which visualizes all of the m
 
 
 ## Screenshot
-![My image](https://github.com/zhenghaohe/Movie-Trailer-Website/blob/master/screenshot.png)
+![My image](https://github.com/zhenghaohe/Movie-Trailer-Website/blob/master/screenshot1.png)
+![My image](https://github.com/zhenghaohe/Movie-Trailer-Website/blob/master/screenshot2.png)
+
 
 ## RUNNING DOCUMENTATION LOCALLY
 - 1. If necessary, install Python version 2.7.9
